@@ -6,4 +6,4 @@ sum = first_number + second_number
 
 difference = "4"
 
-product = first_number*second_number
+product = first_number * second_number
