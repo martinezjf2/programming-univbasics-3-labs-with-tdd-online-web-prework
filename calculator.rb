@@ -8,7 +8,8 @@ difference = "first_number" - "second_number"
 
 product = "first_number" * "second_number"
 
-Quotient
+Quotient= (first_number/second_number)
+
 
 
 
